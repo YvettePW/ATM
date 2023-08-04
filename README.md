@@ -2,7 +2,7 @@
 ## ATM Exercise
 <img src="atmimage.png" width='300'/>
 This exercise simulates a simple ATM deposit and withdrawal.<br></br>
-To run this on your machine, download these files, navigate on a terminal to the folder they are in, type http-server or http-server -c-1, go to localhost:8080 on your browser, and select standalone.html.<br></br>
+To run this on your machine, download these files, navigate on a terminal to the folder they are in, type http-server or http-server -c-1, go to localhost:8080 on your browser, and select standalone.html. Select "Deposit" from the dropdown, enter a number into the field, and press submit. Likewise, select "Cash Back" from the dropdown, enter a number into the field, and press submit. The code does not allow the balance to go below zero.<br></br>
 Additional functionality that would be helpful to a user for future iterations would be to add bootstrap styling.<br></br>
 MIT License<br></br>
 Copyright (c) 2023 Yvette Watson<br></br>
